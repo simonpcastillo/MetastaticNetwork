@@ -6,12 +6,15 @@ Maintainer: Simon Castillo spcastil@uc.cl
 
 ## Data
 This folder contains three datasets
-### data1: Mutational signatures ('signatures.csv')
+### 'signatures.csv': Mutational signatures
 Description data1
-### data2: The tumour microbiome ('microbiomehits.csv')
-Description data2
-### data3: The metastatic network
-Description data3
+20 mutational signatures across 39 cancer types
+###  'microbiomehits.csv': The tumour microbiome
+Description and source data microbiome hits
+3,166 hits of microbes in the tumour environment of seven cancer types
+### 'metastases.csv': The metastatic network
+Description and source data metastases
+8,642 medical records of human metastases
 
 
 ## Codes
