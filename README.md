@@ -1,16 +1,16 @@
-# The Network Structure of Cancer Ecosystems
+# Core-Periphery Regularities in the Network Structure of Cancer Ecosystems
 
-This is a repository of the work "The Network Structure of Cancer Ecosystems" by Simon P. Castillo, Rolando Rebolledo, Matias Arim, Michael E. Hochberg and Pablo A. Marquet.
+This is a repository of the work "Core-Periphery Regularities in the Network Structure of Cancer Ecosystems" by Simon P. Castillo, Rolando Rebolledo, Matias Arim, Michael E. Hochberg and Pablo A. Marquet.
 
-Maintainer Simon Castillo spcastil@uc.cl
+Maintainer: Simon Castillo spcastil@uc.cl
 
 ## Data
-This folder contains datasets
-### data1
+This folder contains three datasets
+### data1: Mutational signatures ('signatures.csv')
 Description data1
-### data2
+### data2: The tumour microbiome ('microbiomehits.csv')
 Description data2
-### data3
+### data3: The metastatic network
 Description data3
 
 

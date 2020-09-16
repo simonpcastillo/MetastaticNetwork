@@ -1,0 +1,14 @@
+,Firmicutes,Proteobacteria,Actinobacteria,Bacteroidetes,Fusobacteria,Cyanobacteria,TM7,Spirochaetes,Chloroflexi,Tenericutes,Verrucomicrobia,Deinococcus-Thermus,GN02,Planctomycetes,Thermi,Acidobacteria
+Breast (T),235,262,169,70,19,24,11,1,6,0,0,5,2,2,1,0
+Colon (NAT),490,49,33,88,10,0,6,7,0,10,6,0,0,0,0,0
+Colon (T),442,57,26,89,10,0,3,0,0,6,6,0,0,0,0,0
+Breast (NAT),94,93,56,30,11,13,8,7,5,0,0,0,0,0,0,1
+Lung (T),53,63,38,24,5,7,1,0,4,0,0,0,0,0,0,0
+Lung (NAT),52,63,39,22,2,10,4,0,0,0,0,0,0,0,0,0
+Breast (N),10,19,22,19,6,6,0,0,1,0,0,0,0,0,0,0
+Pancreas (T),21,33,10,6,7,0,0,0,0,0,0,0,0,0,0,0
+Melanoma (T),21,19,1,4,0,1,0,0,0,0,0,0,0,0,0,0
+Ovary (N+NAT),20,13,4,4,0,0,0,0,0,0,0,0,0,0,0,0
+Bone (T),10,8,5,3,0,0,3,6,0,0,0,0,0,0,0,0
+GBM (T),5,14,3,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ovary (T),5,6,0,0,0,0,0,0,0,0,0,0,0,0,1,0
