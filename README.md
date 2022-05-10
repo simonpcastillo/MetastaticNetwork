@@ -1,6 +1,7 @@
-# Core-Periphery Regularities in the Network Structure of Cancer Ecosystems
+# Metastatic cells exploit their stoichiometric niche in the network of cancer ecosystems
 
-This is a repository of the work "Core-Periphery Regularities in the Network Structure of Cancer Ecosystems" by Simon P. Castillo, Rolando Rebolledo, Matias Arim, Michael E. Hochberg and Pablo A. Marquet.
+
+This is a repository of the work "Metastatic cells exploit their stoichiometric niche in the network of cancer ecosystems" by Simon P. Castillo, Rolando Rebolledo, Matias Arim, Michael E. Hochberg and Pablo A. Marquet.
 
 Maintainer: Simon Castillo spcastil@uc.cl
 
